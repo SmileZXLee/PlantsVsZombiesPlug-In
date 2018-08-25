@@ -1,0 +1,7 @@
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\obj\x86\Debug\ResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\obj\x86\Debug\植物大战僵尸修改器_by照相_.Form1.resources
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\obj\x86\Debug\植物大战僵尸修改器_by照相_.Properties.Resources.resources
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\bin\Debug\植物大战僵尸修改器（by照相）.exe
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\bin\Debug\植物大战僵尸修改器（by照相）.pdb
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\obj\x86\Debug\植物大战僵尸修改器（by照相）.exe
+\\mac\home\documents\visual studio 2010\Projects\植物大战僵尸修改器（by照相）\植物大战僵尸修改器（by照相）\obj\x86\Debug\植物大战僵尸修改器（by照相）.pdb
